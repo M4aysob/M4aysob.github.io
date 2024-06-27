@@ -1,0 +1,22 @@
+.bg-person{
+    background-color: red !important;
+   
+}
+.nav-link{
+    color:  white !important;
+}
+.login{
+    background-color: rgb(255, 0, 0);
+    width: 50%;
+    height: 80%;
+    border-radius: 25%;
+}
+    .form-label{
+        color: white;
+    }
+    
+.btn{
+color: black;
+background-color: white;
+    
+}
